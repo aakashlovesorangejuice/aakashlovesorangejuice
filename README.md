@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aakashlovesorangejuice
+- 👋 Hi, I’m Akash Mangal
 - 👀 I’m interested in Sotware Development and Analytics
-- 🌱 I’m currently learning ARM
+- 🌱 I’m currently learning IOT tools
 - 💞️ I’m looking to collaborate on Market Analytics
 - 📫 How to reach me - mangal.company@gmail.com
 
